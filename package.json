@@ -1,0 +1,22 @@
+{
+  "name": "xkcd",
+  "version": "1.0.0",
+  "description": "XKCD Mattermost Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtiscook/xkcd.git"
+  },
+  "author": "curtiscook",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/curtiscook/xkcd/issues"
+  },
+  "homepage": "https://github.com/curtiscook/xkcd#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
